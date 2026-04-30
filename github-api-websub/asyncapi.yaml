@@ -27,7 +27,7 @@ servers:
     protocol: http
     description: The endpoint where the subscriber listens for incoming WebSub notifications.
 channels:
-  /issues:
+  issues:
     description: The channel/topic for receiving updates related to Git issues.
     subscribe:
       operationId: receiveGitIssueEvent
