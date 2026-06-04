@@ -16,5 +16,5 @@
 
 # schemaVersion: 1.1
 # proxy:
-#   type: WEBSUB
+#   type: WEBBROKER
 #   schemaFilePath: asyncapi.yaml
