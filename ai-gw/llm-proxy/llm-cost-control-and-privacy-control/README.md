@@ -1,10 +1,10 @@
 # LLM Gateway — Failover & AI Policy Sample
 
-> **Sample source:** [wso2/api-platform — samples/llm-failover](https://github.com/wso2/api-platform/tree/main/samples/llm-failover)
+> **Sample source:** [wso2/api-platform-samples — ai-gw/llm-proxy/llm-cost-control-and-privacy-control](https://github.com/wso2/api-platform-samples/tree/api-platform/ai-gw/llm-proxy/llm-cost-control-and-privacy-control)
 >
 > ```bash
-> git clone https://github.com/wso2/api-platform.git
-> cd api-platform/samples/llm-failover
+> git clone --branch api-platform https://github.com/wso2/api-platform-samples.git
+> cd api-platform-samples/ai-gw/llm-proxy/llm-cost-control-and-privacy-control
 > ```
 
 ## Overview
